@@ -1,5 +1,10 @@
 h1 {
     font-family: sans-serif;
     padding: 1em;
-    max-width: 800px;
+    max-width: 1000px;
+    border: 15px solid rgb(131, 60, 131);
+    background: rgb(131, 60, 131);
+    color:rgb(255, 255, 255);
+    text-align: center;
+    
 }
