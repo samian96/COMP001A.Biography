@@ -1,4 +1,9 @@
 h1 {
+    /* The styling font-family specifies what font, border is creating
+    a square frame around our text, while background is filling in the frame.
+    color changes the colors of the specific area, and padding effects the 
+    area within the frame of this element.
+    */
     font-family: sans-serif;
     padding: 1em;
     max-width: 1000px;
@@ -6,7 +11,10 @@ h1 {
     background: rgb(131, 60, 131);
     color:rgb(255, 255, 255);
     text-align: center;
-    
+    /* These are the styling, these change various properties within
+    our html file. We separate the areas we want styled by adding the html
+    elements to specify what area it will effect
+    */
 }
 body {
     h2{
