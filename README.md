@@ -3,3 +3,5 @@ Author: Samuel Iannazzo
 The purpose of this project is to showcase some of the skills I have learned in 
 our COMP001A class so far. As well as write a small biography, and to ensure 
 our webpage has a clean layout.
+The purpose of this read me is to give an overview of the information about this 
+html and css document, as well as the author of it.
