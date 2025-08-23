@@ -3,3 +3,6 @@ body {
     padding: 1em;
     max-width: 600px;
 }
+h1 {
+    font-size: 160%;
+}
