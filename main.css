@@ -8,3 +8,16 @@ h1 {
     text-align: center;
     
 }
+body {
+    h2{font-family: sans-serif;
+    padding: 1em;
+    max-width: 1000px;
+    text-align: center;
+    color: rgb(131, 60, 131)
+}
+   p{ font-family: sans-serif;
+    max-width: 1000px;
+    text-align: center;
+
+   }
+}
